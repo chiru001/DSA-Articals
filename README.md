@@ -1,2 +1,2 @@
-# DSA-with-C-
+# DSA-with-C++
 hash node article 
